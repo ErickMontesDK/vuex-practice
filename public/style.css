@@ -1,0 +1,15 @@
+:root{
+    /*fonts*/
+    --font-primary:"helvetica"
+}
+body{
+    font-family: var(--font-primary);
+}
+
+/*Pokemon types*/
+.normal{
+    background: brown;
+}
+.water{
+    background: cyan;
+}
